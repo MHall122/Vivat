@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Riesling Dry",
+    "type": "Dry White",
+    "description": "Pleasant floral aromas, orange peel and spice notes. Beautiful acids, simply delicious. Riesling for serious Riesling fans.",
+    "price": "$16.00",
+    "emoji": "🥂",
+    "image": "/images/wines/wine-1762286951775-545419434.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chardonnay",
+    "type": "Dry White",
+    "description": "Impressive complexity, finesse and deep flavor. Combination of rich butter, fig and caramel. Long, rich finish. Very smooth.",
+    "price": "$16.00",
+    "emoji": "🍾",
+    "image": "/images/wines/wine-1762286912087-371039134.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gewürztraminer",
+    "type": "Dry White",
+    "description": "Dry version, delivering rich flavors of macerated apricots and exotic ground spices. Silky and balanced, mouth watering finish.",
+    "price": "$22.00",
+    "emoji": "🥂",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Pinot Noir",
+    "type": "Dry Red - Barrique Method",
+    "description": "Also known as Red Burgundy. One of the hardest vinifera varietal to grow. Taste of raspberries; smooth, round and generous.",
+    "price": "$30.00",
+    "emoji": "🍇",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Cabernet Sauvignon",
+    "type": "Dry Red - Barrique Method",
+    "description": "Exhibiting aromatics that touch a range of black cherry, green olive, and herb flavors, with cedar and coffee notes.",
+    "price": "$35.00",
+    "emoji": "🍷",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Lemberger",
+    "type": "Dry Red - Barrique Method",
+    "description": "Origin, Burgenland Austria. Spicy character with aromas of lilac and violet. Beautifully dry with a hint of smokey taste. Limited, very rare.",
+    "price": "$40.00",
+    "emoji": "🍷",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Blush",
+    "type": "Semi-Sweet",
+    "description": "Light semi-sweet wine, classical blend of Riesling and Cabernet Sauvignon. Start sweet but finish dry thanks to nice acids.",
+    "price": "$16.00",
+    "emoji": "🌸",
+    "image": "/images/wines/wine-1762286980497-185070154.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Riesling",
+    "type": "Semi-Sweet",
+    "description": "Range of pear, pineapple, and honey notes; all woven together with a lightly sweet finish.",
+    "price": "$16.00",
+    "emoji": "🍯",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Magic Spice",
+    "type": "Dessert",
+    "description": "Dessert, sweet wine, European blend. Enjoyable hot in the winter or chilled in the summertime. Either way, it's a lot of fun, it's Magic Spice.",
+    "price": "$16.00",
+    "emoji": "✨",
+    "image": ""
+  }
+]

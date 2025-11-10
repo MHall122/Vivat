@@ -1,0 +1,29 @@
+{
+  "name": "vivat-alfa-winery",
+  "version": "2.0.0",
+  "description": "Vivat Alfa Winery - Modular website with admin CMS",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "keywords": [
+    "winery",
+    "cms",
+    "express",
+    "react"
+  ],
+  "author": "Vivat Alfa Winery",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lucide-react": "^0.553.0",
+    "multer": "^1.4.5-lts.1",
+    "react": "^19.2.0",
+    "react-icons": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
