@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap');
+
+/* Font families */
+body { 
+  font-family: 'Lato', sans-serif; 
+}
+
+h1, h2, h3 { 
+  font-family: 'Playfair Display', serif; 
+}
+
+/* Gradients */
+.hero-gradient { 
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+              linear-gradient(135deg, #722f37 0%, #5a2329 100%); 
+}
+
+.wine-gradient { 
+  background: linear-gradient(135deg, #722f37, #a04055); 
+}
+
+.event-gradient { 
+  background: linear-gradient(135deg, #722f37, #d4af37); 
+}
+
+/* Color utilities */
+.text-wine { 
+  color: #722f37; 
+}
+
+.text-gold { 
+  color: #d4af37; 
+}
+
+.bg-wine { 
+  background-color: #722f37; 
+}
+
+.bg-wine-light { 
+  background-color: #8b3a45; 
+}
+
+.bg-beige { 
+  background-color: #f9f5f0; 
+}
+
+/* Effects */
+.hover-lift { 
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.hover-lift:hover { 
+  transform: translateY(-10px); 
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2); 
+}
+
+.modal-overlay { 
+  background: rgba(0,0,0,0.7); 
+}
+
+/* Section divider */
+.section-divider {
+  position: relative;
+  padding-bottom: 1.5rem;
+}
+
+.section-divider::after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 3px;
+  background: #d4af37;
+}
